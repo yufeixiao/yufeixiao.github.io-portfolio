@@ -3,5 +3,5 @@
 - Nutritious water [summer 2020 prototype](), [fall 2019 report](), [summer 2019 story](), [summer 2017 report]()
 - Lifelong homeschool [spring 2020 report](), [spring 2020 prototype](), [summer 2018 animation]()
 # Yufei
-- studying Computer Science and Physics at Minerva Schools
-- how might we use drawing to communicate, solve, learn, free?
+- studying Computer Science and Physics at [Minerva Schools]()
+- how might we use [drawing]() to communicate, solve, learn, free?

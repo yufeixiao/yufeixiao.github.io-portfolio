@@ -4,4 +4,4 @@
 - Lifelong homeschool [spring 2020 report](), [spring 2020 prototype](), [summer 2018 animation]()
 # Yufei
 - studying Computer Science and Physics at Minerva Schools
-- how might we use drawing to communicate, understand, build, free?
+- how might we use drawing to communicate, solve, learn, free?
